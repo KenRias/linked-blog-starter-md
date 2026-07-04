@@ -1,9 +1,9 @@
 # Rank History
 
-| Date | Rank | RR | Notes |
-|---|---|---:|---|
-| Previous peak | Immortal 2 | 160 | Personal peak |
-| 2026-06-29 |  |  | Vault created |
+| Date          | Rank |   RR | Notes         |
+| ------------- | ---- | ---: | ------------- |
+| Previous peak | rad  | 1176 | Personal peak |
+| 2026-06-29    |      |      | Vault created |
 
 ## Lessons From Previous Peaks
 

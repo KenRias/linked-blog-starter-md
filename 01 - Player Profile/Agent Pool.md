@@ -2,14 +2,14 @@
 
 ## Core Pool
 
-### Omen
-Best for flexible, proactive controller play.
+### Jett
 
-### Astra
-Best for structured teamplay, global utility, and round control.
 
-### Clove
-Best when playing aggressively while still filling controller responsibilities.
+### Reyna
+
+
+### Raze
+
 
 ## Agent Selection Rule
 
